@@ -1,0 +1,10 @@
+name: Bosses
+description: Plugin for generate magic bosses
+version: 1.0.0
+author: itoozh
+api: 5.0.0
+main: itoozh\bosses\Main
+
+permissions:
+    boss.command.use:
+      default: op
